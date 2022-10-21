@@ -1,5 +1,7 @@
-# Wizards-and-Beasts
+# Wizards and Beasts
 A tower defence game made in C# in Unity Game Engine
+
+[Play here!](https://tobiasnmf.itch.io/wizards-and-beasts)
 ___
 
 # Game Screen
@@ -13,3 +15,5 @@ ___
 
 # Credits
 <img width="994" alt="Credits" src="https://user-images.githubusercontent.com/10160023/197282026-8b9fb7d1-342d-44d1-b62f-6a901d63f7ff.png">
+
+
